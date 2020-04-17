@@ -1,6 +1,6 @@
 # Install 
- go get github.com/harrychae/abstraction
- go get github.com/harrychae/abstraction/game
+  go get github.com/harrychae/abstraction
+   go get github.com/harrychae/abstraction/game
 
 # Sample
  
