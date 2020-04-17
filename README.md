@@ -3,7 +3,7 @@
  go get github.com/harrychae/abstraction/game
 
 # Sample
-{
+{ Sample
 	package main
 
 	import (
