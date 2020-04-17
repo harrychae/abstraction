@@ -1,3 +1,3 @@
 # abstraction
-install 
-go get github.com/harrychae/abstraction
+# Install 
+# go get github.com/harrychae/abstraction
