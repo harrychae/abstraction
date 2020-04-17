@@ -3,6 +3,7 @@
  go get github.com/harrychae/abstraction/game
 
 # Sample
+{
 package main
 
 import (
@@ -46,4 +47,5 @@ func main() {
 	amy.Swim()  // "I can swim!"
 	alan.Name() // "Hello! My name is Alan Chen"
 	alan.Swim() // "I can't swim"
+}
 }
