@@ -5,6 +5,7 @@
 # Sample
 { 
 Sample
+{
 	package main
 
 	import (
@@ -49,4 +50,3 @@ Sample
 		alan.Name() // "Hello! My name is Alan Chen"
 		alan.Swim() // "I can't swim"
 	}
-}
